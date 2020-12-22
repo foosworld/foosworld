@@ -1,0 +1,5 @@
+style:
+  ForbiddenImport:
+    active: true
+    imports: ['org.junit.jupiter.api.Test']
+    forbiddenPatterns: ''
